@@ -28,7 +28,8 @@ For the sake of brevity, we list only the units we believe to be the most common
 |absolute humidity|humidity|AHD|AHD|g/m3
 |volt|electric potential|V|V
 |millivolt|electric potential|mV|mV
-|microvolt|electric potential|
+|microvolt|electric potential|uV|uV
+
 
 where c/s = case-sensitive, c/i == case-insensitive
 
@@ -48,5 +49,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MjM0NzVdfQ==
+eyJoaXN0b3J5IjpbLTk0MjI3MTczXX0=
 -->

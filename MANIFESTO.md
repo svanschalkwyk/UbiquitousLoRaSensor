@@ -30,7 +30,7 @@ For the sake of brevity, we list only the units we believe to be the most common
 |millivolt|electric potential|mV|mV
 |microvolt|electric potential|uV|uV
 |ohm|electric resistance|Ohm|OHM
-|siemens
+|siemens|electric conductance|
 
 where c/s = case-sensitive, c/i == case-insensitive
 
@@ -50,5 +50,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODgyNDIzOV19
+eyJoaXN0b3J5IjpbLTk1MTUwNjUyN119
 -->

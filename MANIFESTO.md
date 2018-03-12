@@ -26,7 +26,8 @@ c/i == case-insensitive
 |Fahrenheit|temperature|[degF]|[DEGF]
 ||
 |pascal|pressure|Pa|PAL
-|humidity|
+|RH|humidity|%RH|%RH
+|
 
 
 | 1 |2  |
@@ -47,5 +48,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMjQ2MDM2XX0=
+eyJoaXN0b3J5IjpbLTg0Nzc5MzU5Ml19
 -->

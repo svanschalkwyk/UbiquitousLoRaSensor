@@ -50,7 +50,7 @@ To conserve as much battery power as possible, data packages have to be as small
 
 |datetime|reading|unit|
 |---|---|---|
-|ISO 8601|16b,2's complement|per above
+|ISO 8601:2004|16b,2's complement|per above
 
 
 
@@ -61,5 +61,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3OTEwOTcxXX0=
+eyJoaXN0b3J5IjpbMjk3NzMzMjk5XX0=
 -->

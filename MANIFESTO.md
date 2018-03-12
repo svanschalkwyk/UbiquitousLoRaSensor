@@ -14,7 +14,7 @@ This specification also allows for *new measurement terms* to be created using t
 ![BNF Syntax to use for new units](https://github.com/svanschalkwyk/UbiquitousLoRaSensor/blob/master/images/bnf_syntax.jpg)
 
 ## Common sensor measurement units
-For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly C.3  ALPHABETIC INDEX BY KIND OF QUANTITY
+For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly the section C.3  ALPHABETIC INDEX BY KIND OF QUANTITY
 
 ### Temperature, Pressure, Humidity
 |name|kind of quantity|c/s|c/i|definition
@@ -42,6 +42,7 @@ For the sake of brevity, we list only the units we believe to be the most common
 |day|time|d|DAY|24h
 where c/s = case-sensitive, c/i = case-insensitive
 
+### Usage
 
 
 
@@ -51,12 +52,12 @@ where c/s = case-sensitive, c/i = case-insensitive
 
 
 
-
+### References:
 https://www.eclipse.org/uomo/
 http://www.unitsofmeasure.org/trac
 https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjYyMzIzOV19
+eyJoaXN0b3J5IjpbLTc2NTY0NDA2Nl19
 -->

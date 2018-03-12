@@ -27,7 +27,7 @@ c/i == case-insensitive
 ||
 |pascal|pressure|Pa|PAL
 |RH|humidity|%RH|%RH
-|AH
+|AH|humidity
 
 
 | 1 |2  |
@@ -48,5 +48,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM1MzYzODNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTU4NDg5NTJdfQ==
 -->

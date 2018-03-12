@@ -50,9 +50,9 @@ To conserve as much battery power as possible, data packages have to be as small
 
 |datetime|reading|unit|
 |---|---|---|
-|Compact ISO 8601:2004|16b,2's complement|per above
+|Compact ISO 8601:2004|16-bit,2's complement|per above
 |171231T235959 (Initial YY omitted)|
-|YYHHMMSS
+|YYMMDDTHHMMSS|
 
 
 
@@ -65,5 +65,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzIzNDA3OF19
+eyJoaXN0b3J5IjpbLTE4NTc1NDQyNDBdfQ==
 -->

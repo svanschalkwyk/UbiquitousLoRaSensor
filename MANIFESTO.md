@@ -19,11 +19,12 @@ This specification also allows for *new measurement terms* to be created using t
 
 
 
+
 https://www.eclipse.org/uomo/
 http://www.unitsofmeasure.org/trac
 https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzI3NDI4NV19
+eyJoaXN0b3J5IjpbMjEwMjU4Mzc0M119
 -->

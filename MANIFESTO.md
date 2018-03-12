@@ -40,7 +40,7 @@ For the sake of brevity, we list only the units we believe to be the most common
 |second|time|se
 |minute|time|min|MIN|60s
 |hour|time|h|HR|60min
-|minute|time|min|MIN|60s
+|day|time|min|MIN|60s
 |minute|time|min|MIN|60s
 |minute|time|min|MIN|60s
 
@@ -63,5 +63,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0ODIxOTM0XX0=
+eyJoaXN0b3J5IjpbMTE0Njg3NTg0Nl19
 -->

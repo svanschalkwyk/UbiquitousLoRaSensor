@@ -14,6 +14,8 @@ This specification also allows for *new measurement terms* to be created using t
 [
 ](./images/bnf_syntax.jpg)
 
+## Common sensor measurement units
+For the sake of brevity, we list only the uni
 
 
 
@@ -26,5 +28,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjU4Mzc0M119
+eyJoaXN0b3J5IjpbNDQ3OTQ1ODg0XX0=
 -->

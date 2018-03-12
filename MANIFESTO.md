@@ -1,5 +1,5 @@
-Manifesto for a Universal Wireless Sensor Network
-=
+# Manifesto for a Universal Wireless Sensor Network
+
 
 ## Wireless sensor networks will not talk to each other
 If we are to have a vast network of wireless sensors, we need to convince sensor manufacturers to create sensor modules. Manufacturers are encouraged to copy and add enhancements to this platform, and still produce networks using their own, proprietary, protocols.
@@ -49,10 +49,6 @@ The usage section will be expanded and changed as more collaborators join the pr
 To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make data packages ubiquitous and human-readable, we propose an ASCII data format as well as a binary format. We respectfully request community input on this. 
 ##### ASCII 
 We propose a data package consisting of:
-|  |  |
-|--|--|
-|  |  |
-
 |datetime|number of bytes in read|reading|units|
 |--|--|--|--|
 |ISO 8601:2000 YYMMDDTHHMMSSZZZZZ|bytes in data|ASCII|as above
@@ -91,5 +87,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcyMjA0MThdfQ==
+eyJoaXN0b3J5IjpbLTExMDQxMzMwOTRdfQ==
 -->

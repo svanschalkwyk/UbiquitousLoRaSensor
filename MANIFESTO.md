@@ -18,11 +18,13 @@ This specification also allows for *new measurement terms* to be created using t
 For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly **C.3  ALPHABETIC INDEX BY KIND OF QUANTITY**
 ### Temperature
 |name|kind of quantity|print|c/s|c/i|
+|--|--|--|--|--
 |kelvin|temperature|K|K|K|
 
 
+
 | 1 |2  |
-|3|--|
+|--|--|
 |  |  |
 
 
@@ -39,5 +41,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTQyOTIwXX0=
+eyJoaXN0b3J5IjpbMTcwNjExODA5M119
 -->

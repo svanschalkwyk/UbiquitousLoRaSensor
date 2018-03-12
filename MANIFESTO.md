@@ -17,7 +17,7 @@ This specification also allows for *new measurement terms* to be created using t
 ## Common sensor measurement units
 For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly **C.3  ALPHABETIC INDEX BY KIND OF QUANTITY**
 ### Temperature
-|name|kind of quantity|print
+|name|kind of quantity|print|
 |--|--|
 |  |  |
 
@@ -34,5 +34,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTI4NTk5Nl19
+eyJoaXN0b3J5IjpbNDcyODkxNTMwXX0=
 -->

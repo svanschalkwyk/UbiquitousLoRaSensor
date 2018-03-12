@@ -53,7 +53,7 @@ To conserve as much battery power as possible, data packages have to be as small
 |Compact ISO 8601:2004|16-bit,2's complement|as above
 |171231T235959 (Initial YY omitted)|
 |YYMMDDTHHMMSS|
-It is entirely possible to present time as a binary number, but in the interest of readability, we propose
+It is entirely possible to present time as a binary number, but in the interest of readability, we propose usi
 
 
 ### References:
@@ -65,5 +65,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNzgzOTAzXX0=
+eyJoaXN0b3J5IjpbMTQ0NTE0OTY0Ml19
 -->

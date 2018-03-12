@@ -55,8 +55,8 @@ We propose a data package consisting of:
 
 |datetime|number of bytes in read|reading|units|
 |--|--|--|--|
-|Compact ISO 8601 2000 YYMMDDTHHMMSSZZZZZ|bytes in data|ASCII|as above
-|181231T235959-0200 (Initial YY omitted)|
+|ISO 8601:2000 YYMMDDTHHMMSSZZZZZ|bytes in data|ASCII|as above
+|181231T235959-0200|
 
 
 It is entirely reasonable to present time as a binary number, and/or an offset, but in the interest of readability we propose using YYMMDDTHHMMSSZZZZZ. We propose to use UTC for all sensor packages, and we request community input regarding this. 
@@ -74,7 +74,7 @@ In the case of modules containing multiple sensors, and where the datetime infor
 |datetime|number of bytes in read| number of reading packages to follow|unit|termination
 |---|---|---|---|---
 |180312T230530-0600|0| 3| PKG | linefeed (\n)
-|180312T230530-0600|5| -12.0 | CEL | \n
+||5| -12.0 | CEL | \n
 ||5| -10.0 | CEL | \n
 ||4| 22.5 | %RH | \n
 ||5| -12.4 | V | \n
@@ -92,5 +92,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY0MDQyMzFdfQ==
+eyJoaXN0b3J5IjpbLTg4NjIzOThdfQ==
 -->

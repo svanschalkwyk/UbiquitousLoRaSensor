@@ -69,7 +69,7 @@ In the case of modules containing multiple sensors, and where the datetime infor
 |datetime|number of bytes in read| reading|unit|
 |---|---|---|---
 |Compact ISO 8601:2000|bytes in data reading|ASCII|as above
-|181231T235959-0200 (Initial YY omitted)|
+|181231T235959-0200 (Initial YY omitted)|0|number of reading packages to follow|PKG|
 |YYMMDDTHHMMSSZZZZZ|
 
 
@@ -84,5 +84,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzEzNzUzNl19
+eyJoaXN0b3J5IjpbMTY2MzE5NzY0MV19
 -->

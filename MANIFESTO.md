@@ -76,7 +76,7 @@ In the case of modules containing multiple sensors, and where the datetime infor
 |180312T230530-0600|0| 3| PKG | linefeed (\n)
 ||5| -10.0 | CEL | \n
 ||4| 22.5 | %RH | \n
-||5| -12.4 | V | \n
+||6| -12.46 | V | \n
 
 ##### Binary
 To follow.
@@ -91,5 +91,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTM2MjY1MV19
+eyJoaXN0b3J5IjpbLTEyMjcyMjA0MThdfQ==
 -->

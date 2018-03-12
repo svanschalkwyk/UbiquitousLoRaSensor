@@ -50,7 +50,7 @@ To conserve as much battery power as possible, data packages have to be as small
 ##### ASCII 
 We propose a data package consisting of
 |datetime|number of bytes in read| reading|unit|
-|---|---|---|---
+|---|---|---|---|
 |Compact ISO 8601:2000|bytes in data|ASCII|as above
 |181231T235959-0200 (Initial YY omitted)|
 |YYMMDDTHHMMSSZZZZZ|
@@ -87,5 +87,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njk5MzY1Nl19
+eyJoaXN0b3J5IjpbLTUyODc5MjU1OF19
 -->

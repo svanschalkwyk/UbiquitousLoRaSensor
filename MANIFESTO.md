@@ -25,7 +25,8 @@ c/i == case-insensitive
 |Celsius|temperature|Cel|CEL
 |Fahrenheit|temperature|[degF]|[DEGF]
 ||
-|
+|pascal|pressure|Pa|PAL
+
 
 
 | 1 |2  |
@@ -46,5 +47,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk2NjYwMDZdfQ==
+eyJoaXN0b3J5IjpbNDM2NjUzOTIxXX0=
 -->

@@ -26,6 +26,7 @@ For the sake of brevity, we list only the units we believe to be the most common
 |pascal|pressure|Pa|PAL
 |relative humidity|humidity|%RH|%RH
 |absolute humidity|humidity|AHD|AHD|g/m3
+|ampere|electric current|A|A|C/s
 |volt|electric potential|V|V
 |millivolt|electric potential|mV|mV
 |microvolt|electric potential|uV|uV
@@ -36,7 +37,51 @@ For the sake of brevity, we list only the units we believe to be the most common
 |henry|inductance|H|H|Wb/A
 |lumen|luminous flux|lm|LM|cd.sr
 |lux|illuminance|lx|LX|lm/m2
-|ampere|electric current|A|A
+|minute|time|
+
+min
+
+`min`
+
+`MIN`
+
+no
+
+60
+
+`s`
+
+hour
+
+time
+
+h
+
+`h`
+
+`HR`
+
+no
+
+60
+
+`min`
+
+day
+
+time
+
+d
+
+`d`
+
+`D`
+
+no
+
+24
+
+`h`
 
 where c/s = case-sensitive, c/i == case-insensitive
 
@@ -56,5 +101,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEzMDA5OTldfQ==
+eyJoaXN0b3J5IjpbMjExMzk0NzEwOV19
 -->

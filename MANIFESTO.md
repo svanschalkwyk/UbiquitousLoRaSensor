@@ -18,7 +18,7 @@ This specification also allows for *new measurement terms* to be created using t
 For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly C.3  ALPHABETIC INDEX BY KIND OF QUANTITY
 
 ### Temperature, Pressure, Humidity
-|name|kind of quantity|c/s|c/i|
+|name|kind of quantity|c/s|c/i|extension
 |--|--|--|--|--
 |kelvin|temperature|K|K|
 |Celsius|temperature|Cel|CEL
@@ -26,6 +26,7 @@ For the sake of brevity, we list only the units we believe to be the most common
 |pascal|pressure|Pa|PAL
 |relative humidity|humidity|%RH|%RH
 |absolute humidity|humidity|AHD|AHD|g/m3
+|
 
 where c/s = case-sensitive, c/i == case-insensitive
 
@@ -45,5 +46,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTMxNTc4OV19
+eyJoaXN0b3J5IjpbNTM5MDY0MTU2XX0=
 -->

@@ -9,7 +9,7 @@ What we would like to do in this project, is to formulate a protocol and open so
 ## Measurement Units
 One of the main issues standing in the way of a universal sensor network, is the non-universality of measurement units. This has impacted even projects such as the Hubble Telescope. Conversion is sometimes fraught with mistakes.
 
-We propose to use the Unified Code for Units of Measure (http://www.unitsofmeasure.org) as a starting (and possible, an end point, as it is comprehensive). You are encouraged to read this specification, as it gives a wonderful perspective on measurement, starting from earliest history.
+We propose to use the Unified Code for Units of Measure (http://www.unitsofmeasure.org) as a starting (and possible, an end point, as it is very comprehensive). You are encouraged to read this specification, as it gives a wonderful perspective on measurement, starting from earliest history.
 This specification also allows _new measurement terms_ to be created using the BNF specification in the 
 
 
@@ -19,5 +19,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDMzMDM3NF19
+eyJoaXN0b3J5IjpbMTk4NzY3NjUxOF19
 -->

@@ -45,7 +45,7 @@ where c/s = case-sensitive, c/i = case-insensitive
 ### Usage
 The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at  [join us](mailto:steph@remcam.net). 
 
-#### Proposed Sensor Reading Packaging
+#### Proposed Sensor Data Packaging
 
 
 
@@ -59,5 +59,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTg0NzY3OV19
+eyJoaXN0b3J5IjpbMTQyODMxNTI0M119
 -->

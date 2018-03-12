@@ -51,8 +51,8 @@ To conserve as much battery power as possible, data packages have to be as small
 |datetime|reading|unit|
 |---|---|---|
 |Compact ISO 8601:2004|16-bit, 2's complement|as above
-|181231T235959 (Initial YY and T omitted)|
-|YYMMDDHHMMSS|
+|181231T235959-0200 (Initial YY omitted)|
+|YYMMDDTHHMMSS|
 It is entirely possible to present time as a binary number, but in the interest of readability, we propose using YYMMDDTHHMMSS.
 A sample sensor reading looks like this after formatting:
 180312
@@ -67,5 +67,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTI3OTE0N119
+eyJoaXN0b3J5IjpbMTk1OTg0MTc0M119
 -->

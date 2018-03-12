@@ -1,4 +1,3 @@
-# UbiquitousLoRaSensor
 # Manifesto for a Universal Wireless Sensor Network
 
 

@@ -51,7 +51,7 @@ To conserve as much battery power as possible, data packages have to be as small
 We propose a data package consisting of:
 |datetime|number of bytes in read|reading|units
 |---|---|---|---
-|Compact ISO 8601:2000|bytes in data|ASCII|as above
+|Compact ISO 8601 2000|bytes in data|ASCII|as above
 |181231T235959-0200 (Initial YY omitted)|
 |YYMMDDTHHMMSSZZZZZ|
 It is entirely reasonable to present time as a binary number, and/or an offset, but in the interest of readability we propose using YYMMDDTHHMMSSZZZZZ. We propose to use UTC for all sensor packages, and we request community input regarding this. 
@@ -87,5 +87,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA1NzkyMjldfQ==
+eyJoaXN0b3J5IjpbLTE1NjAxNTc0OTVdfQ==
 -->

@@ -63,7 +63,8 @@ A sample sensor reading looks like this after formatting:
 |alternatively: |
 |180312230530 (all readings in UTC)
 
-#### Multiple readings in a packet
+#### Multiple readings in a data packet
+In the case of modules containing multiple sensors, and where the datetime information is shared
 
 
 
@@ -78,5 +79,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYwMDM2ODVdfQ==
+eyJoaXN0b3J5IjpbMTU5NDU5MzQwOV19
 -->

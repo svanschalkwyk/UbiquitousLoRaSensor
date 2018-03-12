@@ -70,6 +70,11 @@ In the case of modules containing multiple sensors, and where the datetime infor
 |---|---|---|---
 |Compact ISO 8601:2000|bytes in data reading|ASCII|as above
 |181231T235959-0200 (Initial YY omitted)|0|number of reading packages to follow|PKG|
+|180312T230530-0600|0| 3| PKG
+|180312T230530-0600|5| -12.0 | CEL
+||5| -12.0 | CEL
+|180312T230530-0600|5| -12.0 | CEL
+
 |YYMMDDTHHMMSSZZZZZ|
 
 
@@ -84,5 +89,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzE5NzY0MV19
+eyJoaXN0b3J5IjpbLTE4NjE0MjUyODhdfQ==
 -->

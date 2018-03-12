@@ -66,10 +66,9 @@ A sample sensor reading looks like this after formatting:
 #### Multiple readings in a data packet
 In the case of modules containing multiple sensors, and where the datetime information is shared, we propose the following:
 
-|datetime|number of bytes in read| reading|unit|
-|---|---|---|---
-|181231T235959-0200 (Initial YY omitted)|0|number of reading packages to follow|PKG|
-|180312T230530-0600|0| 3| PKG
+|datetime|number of bytes in read| number of reading packages to follow|unit|termination
+|---|---|---|---|---
+|180312T230530-0600|0| 3| PKG 
 |180312T230530-0600|5| -12.0 | CEL
 ||5| -10.0 | CEL
 ||4| 22.5 | %RH
@@ -87,5 +86,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTY5NDc4NF19
+eyJoaXN0b3J5IjpbMTEwNjE4ODU3OF19
 -->

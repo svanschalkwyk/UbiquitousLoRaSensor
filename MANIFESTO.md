@@ -49,6 +49,7 @@ The usage section will be expanded and changed as more collaborators join the pr
 To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make data packages ubiquitous and human-readable, we propose an ASCII data format as well as a binary format. We respectfully request community input on this. 
 ##### ASCII 
 We propose a data package consisting of:
+
 |datetime|number of bytes in read|reading|units|
 |--|--|--|--|
 |ISO 8601:2000 YYMMDDTHHMMSSZZZZZ|bytes in data|ASCII|as above
@@ -58,6 +59,7 @@ We propose a data package consisting of:
 It is entirely reasonable to present time as a binary number, and/or an offset, but in the interest of readability we propose using YYMMDDTHHMMSSZZZZZ. We propose to use UTC for all sensor packages, and we request community input regarding this. 
 
 A sample sensor reading looks like this after formatting:
+
 |datetime|number of data bytes|reading|units
 |---|---|---|---
 |180312T230530-0600|5| -12.0 | CEL
@@ -87,5 +89,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk5MzM2NV19
+eyJoaXN0b3J5IjpbMjEyNDYwNzY5NV19
 -->

@@ -60,6 +60,11 @@ A sample sensor reading looks like this after formatting:
 |datetime|number of data bytes|reading|units
 |---|---|---|---
 |180312T230530-0600|5| -12.0 | CEL
+|alternatively: |
+|180312230530 (all readings in UTC)
+
+
+
 
 
 
@@ -72,5 +77,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjE4NDc2Ml19
+eyJoaXN0b3J5IjpbLTk2Mzg4NDk0NF19
 -->

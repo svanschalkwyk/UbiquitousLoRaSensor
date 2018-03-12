@@ -47,9 +47,10 @@ The usage section will be expanded and changed as more collaborators join the pr
 
 #### Proposed Sensor Data Packaging
 To conserve as much battery power as possible, data packages have to be as small as reasonably possible. To that end we propose a data package consisting of
-|datetime|
-|---|---|---|---|---|
 
+|datetime|reading|unit|
+|---|---|---|
+|
 
 
 ### References:
@@ -59,5 +60,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUwNDU2NzRdfQ==
+eyJoaXN0b3J5IjpbMTc0ODIxNjMwOF19
 -->

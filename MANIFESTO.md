@@ -2,7 +2,7 @@ Manifesto for a Universal Wireless Sensor Network
 =
 
 ## Wireless sensor networks will not talk to each other
-If we are to have a vast network of wireless sensors, we need to get sensor manufacturers to create sensor boards. Manufacturers are encouraged to copy and add enhancements to this platform, and still produce networks using their own, proprietary, protocols.
+If we are to have a vast network of wireless sensors, we need to convince sensor manufacturers to create sensor modules. Manufacturers are encouraged to copy and add enhancements to this platform, and still produce networks using their own, proprietary, protocols.
 
 What we would like to do in this project, is to formulate a protocol and open source hardware for a ubiquitous wireless sensor network. We are proposing a protocol which may be employed by LoRaWan, LoRa, WiFi and any other network. Gateways will enable communication between networks, but the sensor data protocol will be universal.
 
@@ -59,5 +59,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTk4NDM0Nl19
+eyJoaXN0b3J5IjpbLTU1MjE0NDcwNV19
 -->

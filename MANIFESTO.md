@@ -73,9 +73,8 @@ In the case of modules containing multiple sensors, and where the datetime infor
 |180312T230530-0600|0| 3| PKG
 |180312T230530-0600|5| -12.0 | CEL
 ||5| -12.0 | CEL
-|180312T230530-0600|5| -12.0 | CEL
-
-|YYMMDDTHHMMSSZZZZZ|
+||5| 22.5 | %RH
+||5| -12.0 | CEL
 
 
 
@@ -89,5 +88,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE0MjUyODhdfQ==
+eyJoaXN0b3J5IjpbLTE5Njk4OTIzMjRdfQ==
 -->

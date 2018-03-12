@@ -11,8 +11,7 @@ One of the main issues standing in the way of a universal sensor network, is the
 
 We propose to use the Unified Code for Units of Measure, found here http://www.unitsofmeasure.org, as a starting (and possible, an end point, as it is very comprehensive). You are encouraged to read this specification, as it gives a wonderful perspective on measurement, starting from earliest history.
 This specification also allows for *new measurement terms* to be created using the BNF specification in the diagram below:
-[
-](./images/bnf_syntax.jpg)
+![BNF Syntax to use for new units](https://github.com/svanschalkwyk/UbiquitousLoRaSensor/blob/master/images/bnf_syntax.jpg)
 
 ## Common sensor measurement units
 For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly C.3  ALPHABETIC INDEX BY KIND OF QUANTITY
@@ -59,5 +58,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjExNzIzMzBdfQ==
+eyJoaXN0b3J5IjpbLTU5NjYyMzIzOV19
 -->

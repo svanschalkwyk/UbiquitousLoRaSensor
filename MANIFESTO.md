@@ -22,7 +22,8 @@ c/i == case-insensitive
 |name|kind of quantity|c/s|c/i|
 |--|--|--|--|--
 |kelvin|temperature|K|K|
-|Celsius|temperature|
+|Celsius|temperature|Cel|CEL
+|Fahrenheit|temperature|[degF]|
 
 
 | 1 |2  |
@@ -43,5 +44,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTc4MzUxMF19
+eyJoaXN0b3J5IjpbLTk5NDU3MzcwNF19
 -->

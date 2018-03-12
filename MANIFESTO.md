@@ -53,7 +53,7 @@ To conserve as much battery power as possible, data packages have to be as small
 |Compact ISO 8601:2000|byes in data reading|16-bit, 2's complement for numbers, ASCII|as above
 |181231T235959-0200 (Initial YY omitted)|
 |YYMMDDTHHMMSSZZZZZ|
-It is entirely possible to present time as a binary number, but in the interest of readability, we propose using YYMMDDTHHMMSSZZZZZ. If 
+It is entirely possible to present time as a binary number, but in the interest of readability, we propose using YYMMDDTHHMMSSZZZZZ. We propose to use UTC for all sensor packages, and we request community input regarding this. 
 A sample sensor reading looks like this after formatting:
 180312
 
@@ -67,5 +67,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NjE2NDM5XX0=
+eyJoaXN0b3J5IjpbMTEwNzY5NTI3XX0=
 -->

@@ -15,8 +15,9 @@ This specification also allows for *new measurement terms* to be created using t
 ](./images/bnf_syntax.jpg)
 
 ## Common sensor measurement units
-For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly **C.3  ALPHABETIC INDEX BY KIND OF QUANTITY**
-### Temperature
+For the sake of brevity, we list only the units we believe to be the most commonly used. Readers are encouraged to read the addenda to the specification, particularly C.3  ALPHABETIC INDEX BY KIND OF QUANTITY
+
+### Temperature, Pressure, Humidity
 |name|kind of quantity|c/s|c/i|
 |--|--|--|--|--
 |kelvin|temperature|K|K|
@@ -25,14 +26,9 @@ For the sake of brevity, we list only the units we believe to be the most common
 |pascal|pressure|Pa|PAL
 |relative humidity|humidity|%RH|%RH
 |absolute humidity|humidity|AHD|AHD
-
 where c/s = case-sensitive, c/i == case-insensitive
 
 
-
-| 1 |2  |
-|--|--|
-|  |  |
 
 
 
@@ -48,5 +44,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3NDI3NTQ2XX0=
+eyJoaXN0b3J5IjpbLTk1MzM4MzI0MV19
 -->

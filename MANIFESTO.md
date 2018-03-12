@@ -46,7 +46,7 @@ where c/s = case-sensitive, c/i = case-insensitive
 The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at  [join us](mailto:steph@remcam.net). 
 
 #### Proposed Sensor Data Packaging
-To conserve as much battery power as possible, data packages have to be as small as reasonably possible. To that end we propose a data package consisting of
+To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make daTo that end we propose a data package consisting of
 
 |datetime|number of bytes in read| reading|unit|
 |---|---|---|---
@@ -57,8 +57,9 @@ It is entirely possible to present time as a binary number, but in the interest 
 
 A sample sensor reading looks like this after formatting:
 |datetime|number of data bytes|reading|units
-|---|---|---|
+|---|---|---|---
 |180312T230530-0600|5| -12.0 | CEL
+
 
 
 ### References:
@@ -70,5 +71,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEyMjYyNl19
+eyJoaXN0b3J5IjpbLTEyMzg1MzkzODRdfQ==
 -->

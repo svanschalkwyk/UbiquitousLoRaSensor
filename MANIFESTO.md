@@ -63,7 +63,8 @@ A sample sensor reading looks like this after formatting:
 |alternatively: |
 |180312230530 (all readings in UTC)
 
-#### Multiple readings i
+#### Multiple readings in a packet
+
 
 
 
@@ -77,5 +78,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNDgzMTIwXX0=
+eyJoaXN0b3J5IjpbLTE0NzYwMDM2ODVdfQ==
 -->

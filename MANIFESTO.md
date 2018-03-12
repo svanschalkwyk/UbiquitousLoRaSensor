@@ -41,11 +41,7 @@ For the sake of brevity, we list only the units we believe to be the most common
 |minute|time|min|MIN|60s
 |hour|time|h|HR|60min
 |day|time|d|DAY|24h
-|minute|time|min|MIN|60s
-|minute|time|min|MIN|60s
-
-
-where c/s = case-sensitive, c/i == case-insensitive
+where c/s = case-sensitive, c/i = case-insensitive
 
 
 
@@ -63,5 +59,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY4MTEzMTddfQ==
+eyJoaXN0b3J5IjpbMTIwOTk4NDM0Nl19
 -->

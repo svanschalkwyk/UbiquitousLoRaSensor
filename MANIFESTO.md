@@ -1,4 +1,5 @@
 Manifesto for a universal wireless sensor network
+=
 
 Wireless sensor networks will not talk to each other
 If we are to have a vast network of wireless sensors, we need to get a vast number of sensor manufacturers to create sensor boards. Manufacturers are encouraged to copy and add enhancements to this platform, and still produce networks using their own, proprietary, protocols.
@@ -16,3 +17,6 @@ http://www.unitsofmeasure.org/trac
 https://jcp.org/en/jsr/detail?id=256
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NTUxOTM3MTJdfQ==
+-->

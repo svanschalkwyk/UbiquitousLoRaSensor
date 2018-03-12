@@ -56,7 +56,7 @@ To conserve as much battery power as possible, data packages have to be as small
 It is entirely possible to present time as a binary number, but in the interest of readability, we propose using YYMMDDTHHMMSSZZZZZ. We propose to use UTC for all sensor packages, and we request community input regarding this. 
 
 A sample sensor reading looks like this after formatting:
-|datetime|||
+|datetime|number of data bytes||
 |---|---|---|
 |180312T230530-0600|5| -12.0 | CEL
 
@@ -70,5 +70,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTk2MTY3Ml19
+eyJoaXN0b3J5IjpbNjI5MzE1M119
 -->

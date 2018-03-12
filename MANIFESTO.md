@@ -26,7 +26,8 @@ For the sake of brevity, we list only the units we believe to be the most common
 |pascal|pressure|Pa|PAL
 |relative humidity|humidity|%RH|%RH
 |absolute humidity|humidity|AHD|AHD|g/m3
-|
+|volt|electric potential|V|V
+millivolt
 
 where c/s = case-sensitive, c/i == case-insensitive
 
@@ -46,5 +47,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MDY0MTU2XX0=
+eyJoaXN0b3J5IjpbLTEyNzA2MTY4ODZdfQ==
 -->

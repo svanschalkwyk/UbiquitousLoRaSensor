@@ -49,7 +49,7 @@ The usage section will be expanded and changed as more collaborators join the pr
 To conserve as much battery power as possible, data packages have to be as small as reasonably possible. To that end we propose a data package consisting of
 
 |datetime|number of reading bytes| reading|unit|
-|---|---|---|
+|---|---|---|---
 |Compact ISO 8601:2000|16-bit, 2's complement|as above
 |181231T235959-0200 (Initial YY omitted)|
 |YYMMDDTHHMMSSZZZZZ|
@@ -67,5 +67,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NTI1NTk1XX0=
+eyJoaXN0b3J5IjpbLTExMjM2NjQ1MTRdfQ==
 -->

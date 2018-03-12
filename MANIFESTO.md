@@ -34,7 +34,9 @@ For the sake of brevity, we list only the units we believe to be the most common
 |siemens|electric conductance|S|SIE|Ohm-1
 |tesla|magnetic flux density|T|T|Wb/m2
 |henry|inductance|H|H|Wb/A
-|lumen|luminous flux|lm|LM
+|lumen|luminous flux|lm|LM|cd.sr
+|lux|illuminance|lx|LX|lm/m2
+|ampere|electric current|A|A
 
 where c/s = case-sensitive, c/i == case-insensitive
 
@@ -54,5 +56,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA3NDYyOF19
+eyJoaXN0b3J5IjpbLTEwNzEzMDA5OTldfQ==
 -->

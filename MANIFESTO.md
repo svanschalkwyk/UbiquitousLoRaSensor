@@ -46,7 +46,7 @@ where c/s = case-sensitive, c/i = case-insensitive
 The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at  [join us](mailto:steph@remcam.net). 
 
 #### Proposed Sensor Data Packaging
-To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make daTo that end we propose a data package consisting of
+To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make data packages uTo that end we propose a data package consisting of
 
 |datetime|number of bytes in read| reading|unit|
 |---|---|---|---
@@ -71,5 +71,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg1MzkzODRdfQ==
+eyJoaXN0b3J5IjpbLTE1MTA1NDE4MTldfQ==
 -->

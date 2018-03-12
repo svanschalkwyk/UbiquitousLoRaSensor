@@ -48,7 +48,7 @@ The usage section will be expanded and changed as more collaborators join the pr
 #### Proposed Sensor Data Packaging
 To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make data packages ubiquitous and human-readable, we propose an ASCII data format as well as a binary format. We respectfully request community input on this. 
 ##### ASCII 
-We propose a data package consisting of
+We propose a data package consisting of:
 |datetime|number of bytes in read|reading|units
 |---|---|---|---
 |Compact ISO 8601:2000|bytes in data|ASCII|as above
@@ -87,5 +87,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDYzMDU2OV19
+eyJoaXN0b3J5IjpbLTE2NDA1NzkyMjldfQ==
 -->

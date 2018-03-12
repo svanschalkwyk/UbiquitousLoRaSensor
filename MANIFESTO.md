@@ -37,6 +37,11 @@ For the sake of brevity, we list only the units we believe to be the most common
 |henry|inductance|H|H|Wb/A
 |lumen|luminous flux|lm|LM|cd.sr
 |lux|illuminance|lx|LX|lm/m2
+|second|time|se
+|minute|time|min|MIN|60s
+|hour|time|h|HR|60min
+|minute|time|min|MIN|60s
+|minute|time|min|MIN|60s
 |minute|time|min|MIN|60s
 
 
@@ -58,5 +63,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTYzNDU2Nl19
+eyJoaXN0b3J5IjpbNDU0ODIxOTM0XX0=
 -->

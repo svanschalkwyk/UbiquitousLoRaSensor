@@ -24,10 +24,10 @@ c/i == case-insensitive
 |kelvin|temperature|K|K|
 |Celsius|temperature|Cel|CEL
 |Fahrenheit|temperature|[degF]|[DEGF]
-||
 |pascal|pressure|Pa|PAL
-|RH|humidity|%RH|%RH
-|AH|humidity|
+|relative humidity|humidity|%RH|%RH
+|absolute humidity|humidity|AHD|AHD
+
 
 
 | 1 |2  |
@@ -48,5 +48,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU1NjM4NTJdfQ==
+eyJoaXN0b3J5IjpbMTcwNTY3MTkzNl19
 -->

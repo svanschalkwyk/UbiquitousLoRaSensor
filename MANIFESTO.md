@@ -68,7 +68,7 @@ In the case of modules containing multiple sensors, and where the datetime infor
 
 |datetime|number of bytes in read| number of reading packages to follow|unit|termination
 |---|---|---|---|---
-|180312T230530-0600|0| 3| PKG | l
+|180312T230530-0600|0| 3| PKG | linefeed (\n)
 |180312T230530-0600|5| -12.0 | CEL
 ||5| -10.0 | CEL
 ||4| 22.5 | %RH
@@ -86,5 +86,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjQ0NzQ2OF19
+eyJoaXN0b3J5IjpbMTEwOTAyMzI0MV19
 -->

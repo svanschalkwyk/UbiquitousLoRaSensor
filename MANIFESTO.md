@@ -25,7 +25,8 @@ For the sake of brevity, we list only the units we believe to be the most common
 |Fahrenheit|temperature|[degF]|[DEGF]
 |pascal|pressure|Pa|PAL
 |relative humidity|humidity|%RH|%RH
-|absolute humidity|humidity|AHD|AHD
+|absolute humidity|humidity|AHD|AHD|g/m3
+
 where c/s = case-sensitive, c/i == case-insensitive
 
 
@@ -44,5 +45,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzM4MzI0MV19
+eyJoaXN0b3J5IjpbMTczOTMxNTc4OV19
 -->

@@ -46,10 +46,7 @@ where c/s = case-sensitive, c/i = case-insensitive
 The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at  [join us](steph@remcam.net). 
 
 
-
-
-
-
+----------
 
 
 ### References:
@@ -59,5 +56,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM1MTM2MDJdfQ==
+eyJoaXN0b3J5IjpbMzgzODM3MDEyXX0=
 -->

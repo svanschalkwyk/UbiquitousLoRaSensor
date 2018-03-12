@@ -58,9 +58,9 @@ To conserve as much battery power as possible, data packages have to be as small
 https://www.eclipse.org/uomo/
 http://www.unitsofmeasure.org/trac
 https://jcp.org/en/jsr/detail?id=256
-
+[Toward a Robust Sparse Data Representation for Wireless Sensor Networks](https://arxiv.org/pdf/1508.00230.pdf)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNDc3MjE3XX0=
+eyJoaXN0b3J5IjpbMjAzMjc0ODQ5MF19
 -->

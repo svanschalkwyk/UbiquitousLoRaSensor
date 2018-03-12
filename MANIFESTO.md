@@ -63,7 +63,7 @@ A sample sensor reading looks like this after formatting:
 |alternatively: |
 |180312230530 (all readings in UTC)
 
-#### Mu
+#### Multiple readings i
 
 
 
@@ -77,5 +77,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU5ODI0MTRdfQ==
+eyJoaXN0b3J5IjpbNjQzNDgzMTIwXX0=
 -->

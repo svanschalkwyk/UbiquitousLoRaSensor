@@ -29,9 +29,10 @@ For the sake of brevity, we list only the units we believe to be the most common
 |volt|electric potential|V|V
 |millivolt|electric potential|mV|mV
 |microvolt|electric potential|uV|uV
-|ohm|electric resistance|Ohm|OHM
-|siemens|electric conductance|S|SIE
-|tesla|magnetic flux density|T|T
+|ohm|electric resistance|Ohm|OHM|V/A
+|siemens|electric conductance|S|SIE|Ohm-1
+|tesla|magnetic flux density|T|T|Wb/m2
+|henry|inductance|H|H|
 
 where c/s = case-sensitive, c/i == case-insensitive
 
@@ -51,5 +52,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzYwNDg5M119
+eyJoaXN0b3J5IjpbLTE5NjIyMjA1MDZdfQ==
 -->

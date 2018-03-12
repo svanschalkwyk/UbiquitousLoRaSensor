@@ -46,7 +46,7 @@ where c/s = case-sensitive, c/i = case-insensitive
 The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at  [join us](mailto:steph@remcam.net). 
 
 #### Proposed Sensor Data Packaging
-To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make data packages ubiquitous and human-readable, we propose an ASCII data format. We respectfully request community input on this. 
+To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make data packages ubiquitous and human-readable, we propose an ASCII data format as well as a binary format. We respectfully request community input on this. 
 
 We propose a data package consisting of
 |datetime|number of bytes in read| reading|unit|
@@ -69,10 +69,10 @@ In the case of modules containing multiple sensors, and where the datetime infor
 |datetime|number of bytes in read| number of reading packages to follow|unit|termination
 |---|---|---|---|---
 |180312T230530-0600|0| 3| PKG | linefeed (\n)
-|180312T230530-0600|5| -12.0 | CEL
-||5| -10.0 | CEL
-||4| 22.5 | %RH
-||5| -12.4 | V
+|180312T230530-0600|5| -12.0 | CEL | \n
+||5| -10.0 | CEL | \n
+||4| 22.5 | %RH | \n
+||5| -12.4 | V | \n
 
 
 
@@ -86,5 +86,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTAyMzI0MV19
+eyJoaXN0b3J5IjpbLTEzNjExNjI5Ml19
 -->

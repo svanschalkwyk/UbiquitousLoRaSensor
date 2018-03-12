@@ -10,7 +10,7 @@ What we would like to do in this project, is to formulate a protocol and open so
 One of the main issues standing in the way of a universal sensor network, is the non-universality of measurement units. This has impacted even projects such as the Hubble Telescope. Unit conversion is sometimes fraught with mistakes.
 
 We propose to use the Unified Code for Units of Measure, found here http://www.unitsofmeasure.org, as a starting (and possible, an end point, as it is very comprehensive). You are encouraged to read this specification, as it gives a wonderful perspective on measurement, starting from earliest history.
-This specification also allows for *new measurement terms* to be created using the BNF specification in the diagram below:
+This specification also allows for *new measurement units* to be created using the BNF specification in the diagram below:
 ![BNF Syntax to use for new units](https://github.com/svanschalkwyk/UbiquitousLoRaSensor/blob/master/images/bnf_syntax.jpg)
 
 ## Common sensor measurement units

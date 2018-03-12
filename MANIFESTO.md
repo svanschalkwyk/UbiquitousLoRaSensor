@@ -43,7 +43,7 @@ For the sake of brevity, we list only the units we believe to be the most common
 where c/s = case-sensitive, c/i = case-insensitive
 
 ### Usage
-The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at steph@remcam.net 
+The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at steph@remcam.net. 
 
 
 
@@ -59,5 +59,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjU1MjM1N119
+eyJoaXN0b3J5IjpbNTgxMzA2ODk5XX0=
 -->

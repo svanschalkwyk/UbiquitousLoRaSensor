@@ -78,14 +78,14 @@ In the case of modules containing multiple sensors, and where the datetime infor
 To follow.
 
 
-### References:
+#### References:
 https://www.eclipse.org/uomo/
 http://www.unitsofmeasure.org/trac
 https://jcp.org/en/jsr/detail?id=256
-Interesting Reading:
+#### Interesting Reading:
 [Toward a Robust Sparse Data Representation for Wireless Sensor Networks](https://arxiv.org/pdf/1508.00230.pdf)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQxMzMwOTRdfQ==
+eyJoaXN0b3J5IjpbLTExNDk5MzM2NV19
 -->

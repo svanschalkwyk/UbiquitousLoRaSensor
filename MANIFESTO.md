@@ -48,9 +48,9 @@ The usage section will be expanded and changed as more collaborators join the pr
 #### Proposed Sensor Data Packaging
 To conserve as much battery power as possible, data packages have to be as small as reasonably possible. To that end we propose a data package consisting of
 
-|datetime|number of reading bytes| reading|unit|
+|datetime|number of bytes in read| reading|unit|
 |---|---|---|---
-|Compact ISO 8601:2000|16-bit, 2's complement|as above
+|Compact ISO 8601:2000|byes in data reading|16-bit, 2's complement for numbers, ASCII|as above
 |181231T235959-0200 (Initial YY omitted)|
 |YYMMDDTHHMMSSZZZZZ|
 It is entirely possible to present time as a binary number, but in the interest of readability, we propose using YYMMDDTHHMMSSZZZZZ. If 
@@ -67,5 +67,5 @@ Interesting Reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM2NjQ1MTRdfQ==
+eyJoaXN0b3J5IjpbNDI2NjE2NDM5XX0=
 -->

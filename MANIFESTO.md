@@ -23,7 +23,9 @@ c/i == case-insensitive
 |--|--|--|--|--
 |kelvin|temperature|K|K|
 |Celsius|temperature|Cel|CEL
-|Fahrenheit|temperature|[degF]|
+|Fahrenheit|temperature|[degF]|[DEGF]
+||
+|
 
 
 | 1 |2  |
@@ -44,5 +46,5 @@ https://jcp.org/en/jsr/detail?id=256
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDU3MzcwNF19
+eyJoaXN0b3J5IjpbLTEwNjk2NjYwMDZdfQ==
 -->

@@ -45,7 +45,15 @@ where c/s = case-sensitive, c/i = case-insensitive
 ### Usage
 The usage section will be expanded and changed as more collaborators join the project. If you have input, suggestions, or just want to join for updates, please contact us at  [join us](mailto:steph@remcam.net). 
 
-#### Proposed Sensor Data Packaging
+## Protocols
+1. MQTT (The Things Network https://www.thethingsnetwork.org/)
+2. 
+3. Us....
+#### 1. MQTT
+
+#### 2. ......
+
+#### 3. Proposed Sensor Data Packaging
 To conserve as much battery power as possible, data packages have to be as small as reasonably possible. In order to make data packages ubiquitous and human-readable, we propose an ASCII data format as well as a binary format. We respectfully request community input on this. 
 ##### ASCII 
 We propose a data package consisting of:
